@@ -2,36 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf2f9662-d0b7-412d-a1e1-8b6a2eae8056" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Functions/01. Sort Array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Functions/02. Argument Info.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Functions/03. Functional Sum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Functions/04. Personal BMI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Functions/05. Vector Math.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Functions/07. Monkey Patcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart Game/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart Game/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dart Game/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Classes/01. Data Class.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Classes/02. Tickets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Classes/03. Unity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Classes/04. Length Limit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Classes/06. Sorted List.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Classes/07. Instance Validation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Composition/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Composition/01. Array extension.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Composition/02. Construction Crew.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Composition/03. Car Factory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Composition/04. Extensible Object.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Composition/05. String extension.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Composition/07. DOM Highlighter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Composition/07. DOM Highlighter_HTML Skeleton.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit Testing/01. Request Validator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit Testing/02. Even Or Odd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit Testing/03. Char Lookup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit Testing/04. Math Enforcer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM Manipulations/01. Subtraction/subtract.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM Manipulations/01. Subtraction/subtract.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM Manipulations/02. Fill Dropdown/dropdown.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM Manipulations/02. Fill Dropdown/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM Manipulations/03. Accordion/accordion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM Manipulations/03. Accordion/accordion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM Manipulations/04. Sections/sections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM Manipulations/05. Notification/notification.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM Manipulations/06. Time Converter/timeConverter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM Manipulations/06. Time Converter/timeConverter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM Manipulations/07. Distance Converter/distanceConverter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM Manipulations/07. Distance Converter/distanceConverter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Prep/01.Form Acceptance/01. Form Acceptance_Условие.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Prep/01.Form Acceptance/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Prep/01.Form Acceptance/formIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Prep/01.Form Acceptance/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Prep/01.Form Acceptance/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Prep/01.Form Acceptance/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,11 +33,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dart Game/app.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exam Prep/01.Form Acceptance/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+            <state relative-caret-position="504">
+              <caret line="30" column="58" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exam Prep/01.Form Acceptance/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -58,6 +56,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -83,13 +82,26 @@
         <option value="$PROJECT_DIR$/jQuery/02. Timer/timer.js" />
         <option value="$PROJECT_DIR$/jQuery/03. Form-Validation/form-validation.js" />
         <option value="$PROJECT_DIR$/Dart Game/app.js" />
+        <option value="$PROJECT_DIR$/DOM Manipulations/01. Subtraction/subtract.html" />
+        <option value="$PROJECT_DIR$/DOM Manipulations/01. Subtraction/subtract.js" />
+        <option value="$PROJECT_DIR$/DOM Manipulations/02. Fill Dropdown/dropdown.html" />
+        <option value="$PROJECT_DIR$/DOM Manipulations/02. Fill Dropdown/dropdown.js" />
+        <option value="$PROJECT_DIR$/DOM Manipulations/03. Accordion/accordion.js" />
+        <option value="$PROJECT_DIR$/DOM Manipulations/03. Accordion/accordion.html" />
+        <option value="$PROJECT_DIR$/DOM Manipulations/04. Sections/sections.html" />
+        <option value="$PROJECT_DIR$/DOM Manipulations/05. Notification/notification.html" />
+        <option value="$PROJECT_DIR$/DOM Manipulations/06. Time Converter/timeConverter.html" />
+        <option value="$PROJECT_DIR$/DOM Manipulations/06. Time Converter/timeConverter.js" />
+        <option value="$PROJECT_DIR$/DOM Manipulations/07. Distance Converter/distanceConverter.html" />
+        <option value="$PROJECT_DIR$/DOM Manipulations/07. Distance Converter/distanceConverter.js" />
+        <option value="$PROJECT_DIR$/Exam Prep/01.Form Acceptance/app.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="840" />
-    <option name="y" value="42" />
-    <option name="width" value="937" />
+    <option name="x" value="660" />
+    <option name="y" value="3" />
+    <option name="width" value="1311" />
     <option name="height" value="1020" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -111,7 +123,7 @@
             <path>
               <item name="JavaScript Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Dart Game" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam Prep" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -120,14 +132,21 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\JavaScript Core\JavaScript Advanced\Exam Prep" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\JavaScript Core\JavaScript Advanced\Exam Prep\01.Form Acceptance" />
+      <recent name="C:\Users\HP\Desktop\JavaScript Core\JavaScript Advanced\Exam Prep" />
       <recent name="C:\Users\HP\Desktop\JavaScript Core\JavaScript Advanced\Dart Game" />
       <recent name="C:\Users\HP\Desktop\JavaScript Core\JavaScript Advanced\jQuery" />
       <recent name="C:\Users\HP\Desktop\JavaScript Core\JavaScript Advanced\Unit Testing" />
@@ -198,7 +217,10 @@
       <workItem from="1551909010821" duration="101000" />
       <workItem from="1552396688947" duration="1412000" />
       <workItem from="1552516199183" duration="1659000" />
-      <workItem from="1552565394366" duration="4903000" />
+      <workItem from="1552565394366" duration="6184000" />
+      <workItem from="1552575173846" duration="11000" />
+      <workItem from="1552590130669" duration="6781000" />
+      <workItem from="1552599769095" duration="3601000" />
     </task>
     <servers />
   </component>
@@ -217,7 +239,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14637000" />
+    <option name="totallyTimeSpent" value="26311000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -229,10 +251,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="915" y="1" width="937" height="1020" extended-state="0" />
-    <editor active="true" />
+    <frame x="660" y="3" width="1311" height="1020" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.16835018" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2513834" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -382,17 +403,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dart Game/index.html">
+    <entry file="file://$PROJECT_DIR$/Dart Game/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="47" />
+        <state relative-caret-position="567">
+          <caret line="39" column="47" lean-forward="true" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dart Game/app.js">
+    <entry file="file://$PROJECT_DIR$/DOM Manipulations/01. Subtraction/subtract.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        <state relative-caret-position="63">
+          <caret line="3" column="66" lean-forward="true" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM Manipulations/01. Subtraction/subtract.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM Manipulations/02. Fill Dropdown/dropdown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM Manipulations/02. Fill Dropdown/dropdown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="45" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM Manipulations/03. Accordion/accordion.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM Manipulations/03. Accordion/accordion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dart Game/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM Manipulations/04. Sections/sections.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM Manipulations/06. Time Converter/timeConverter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM Manipulations/05. Notification/notification.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM Manipulations/07. Distance Converter/distanceConverter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM Manipulations/06. Time Converter/timeConverter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM Manipulations/07. Distance Converter/distanceConverter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Prep/01.Form Acceptance/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="30" column="58" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam Prep/01.Form Acceptance/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
